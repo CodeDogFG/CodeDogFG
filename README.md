@@ -10,6 +10,7 @@ Hola a todos / Hello there 👋
 - Habilidades Técnicas/ Technical Skills:
 
 💻 Lenguajes de Programación:
+
      * HTML5
      * CSS3
      * JavaScript (JS)
@@ -20,25 +21,30 @@ Hola a todos / Hello there 👋
      * Python
       
 🧱 Frameworks y Librerías:
+
      * .NET
      * Laravel
      * React
 
 💾 Bases de Datos:
+
      * MySQL
      * SQL Server
      * PostgreSQL
       
 🛠️ Herramientas y Control de Versiones:
+
      * Git
      * Github
       
 🔄 Metodologías Ágiles y Principios:
+
      * Programación Orientada a Objetos (POO)
      * SCRUM
      * Kanban
       
 🛡️ Ciberseguridad:
+
      * Pentesting
      * Escaneo de vulnerabilidades (Nmap, Nessus)
      * Configuraciones de Seguridad en Servidores Linux
@@ -47,6 +53,7 @@ Hola a todos / Hello there 👋
      * Wazuh    
 
 📚 Actualmente Aprendiendo:
+
      * Profundizando en Python (enfocado a ciberseguridad) 🐍
      * Explorando el framework Django
      * Continuando la formación en Programación y Análisis de Sistemas (Instituto Profesional AIEP).
