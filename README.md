@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f6275db8-bbc5-4982-be20-baff329d42d4)
+![image](https://github.com/user-attachments/assets/efd9e2ec-c747-486b-b739-445c66e60a42)
+
 
 Hola a todos / Hello there 👋
 
