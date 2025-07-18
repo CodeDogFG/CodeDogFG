@@ -3,7 +3,7 @@
 
 Hola a todos / Hello there 👋
 
-* Soy Felipe Gómez, desarrollador full-stack con una gran inclinación por el análisis lógico y la programación. Me impulsa una curiosidad insaciable por explorar y aprender nuevos lenguajes y tecnologías. Soy organizado y responsable, siempre comprometido con la entrega de un trabajo de alta calidad, y valoro profundamente la estabilidad y la colaboración en entornos de desarrollo
+* Soy Felipe Gómez, desarrollador full-stack con una gran inclinación por el análisis lógico, buscando soluciones en lo cotidiano. Me impulsa una curiosidad insaciable por explorar y aprender nuevos lenguajes y tecnologías. Soy organizado y responsable, siempre comprometido con la entrega de un trabajo de alta calidad, y valoro profundamente la estabilidad y la colaboración en entornos de desarrollo
 
 * I'm Felipe Gómez, a Full-Stack Developer with a strong inclination for logical analysis and programming. I'm driven by an insatiable curiosity to explore and learn new languages and technologies. I am an organized and responsible individual, always committed to delivering high-quality work, and I deeply value stability and collaboration in development environments.
 <p align=center>
