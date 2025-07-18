@@ -9,7 +9,7 @@ Hola a todos / Hello there 👋
 
 - Habilidades Técnicas/ Technical Skills:
 
-![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZEiuJTitstOGVkG2xc-soA.png)
+![image](https://www.freepik.com/premium-ai-image/dog-programmer-business-suit-sits-his-compute-generative-ai_45656720.htm)
 
 💻 Lenguajes de Programación:
 
