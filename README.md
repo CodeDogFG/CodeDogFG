@@ -9,6 +9,8 @@ Hola a todos / Hello there 👋
 
 - Habilidades Técnicas/ Technical Skills:
 
+![image](https://blogs.winona.edu/admissions/wp-content/uploads/2014/11/codingcorgi.jpg)
+
 💻 Lenguajes de Programación:
 
      * HTML5
