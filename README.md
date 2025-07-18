@@ -7,6 +7,8 @@ Hola a todos / Hello there 👋
 
 * I'm Felipe Gómez, a Full-Stack Developer with a strong inclination for logical analysis and programming. I'm driven by an insatiable curiosity to explore and learn new languages and technologies. I am an organized and responsible individual, always committed to delivering high-quality work, and I deeply value stability and collaboration in development environments.
 
+<img width="1024" height="1024" alt="corgiprogrammer" src="https://github.com/user-attachments/assets/7f234def-0f7c-4fd1-9ac7-d9c4afe1dcac" />
+
 - Habilidades Técnicas/ Technical Skills:
 
 💻 Lenguajes de Programación:
@@ -42,7 +44,9 @@ Hola a todos / Hello there 👋
      * Programación Orientada a Objetos (POO)
      * SCRUM
      * Kanban
-      
+
+<img width="1024" height="1024" alt="doxihacker" src="https://github.com/user-attachments/assets/f6228eea-0657-420f-b46a-0bf68fd7c8d4" />
+
 🛡️ Ciberseguridad:
 
      * Pentesting
