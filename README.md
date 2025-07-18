@@ -9,8 +9,6 @@ Hola a todos / Hello there 👋
 
 - Habilidades Técnicas/ Technical Skills:
 
-![image](https://www.freepik.com/premium-ai-image/dog-programmer-business-suit-sits-his-compute-generative-ai_45656720.htm)
-
 💻 Lenguajes de Programación:
 
      * HTML5
@@ -53,7 +51,7 @@ Hola a todos / Hello there 👋
      * Prevención enfocada a DLP (Data Loss Prevention)
      * SGSI (Sistema de Gestión de Seguridad de la Información)
      * Wazuh    
-![image](https://depositphotos.com/photo/dog-glasses-red-shirt-sits-computer-writes-program-golden-retriever-479003304.html)
+
 📚 Actualmente Aprendiendo:
 
      * Profundizando en Python (enfocado a ciberseguridad) 🐍
