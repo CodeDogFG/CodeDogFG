@@ -44,11 +44,6 @@ Hola a todos / Hello there 👋
      * Git
      * Github
       
-🔄 Metodologías Ágiles y Principios:
-
-     * Programación Orientada a Objetos (POO)
-     * SCRUM
-     * Kanban
 
 <p align=center>
     <img width="400" height="400" alt="doxihacker" src="https://github.com/user-attachments/assets/f6228eea-0657-420f-b46a-0bf68fd7c8d4" />
@@ -60,7 +55,14 @@ Hola a todos / Hello there 👋
      * Configuraciones de Seguridad en Servidores Linux
      * Prevención enfocada a DLP (Data Loss Prevention)
      * SGSI (Sistema de Gestión de Seguridad de la Información)
-     * Wazuh    
+     * Wazuh
+
+     
+🔄 Metodologías Ágiles y Principios:
+
+     * Programación Orientada a Objetos (POO)
+     * SCRUM
+     * Kanban
 
 📚 Actualmente Aprendiendo:
 
