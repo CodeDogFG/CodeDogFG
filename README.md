@@ -9,7 +9,7 @@ Hola a todos / Hello there 👋
 
 - Habilidades Técnicas/ Technical Skills:
 
-![image](https://blogs.winona.edu/admissions/wp-content/uploads/2014/11/codingcorgi.jpg)
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZEiuJTitstOGVkG2xc-soA.png)
 
 💻 Lenguajes de Programación:
 
@@ -53,7 +53,7 @@ Hola a todos / Hello there 👋
      * Prevención enfocada a DLP (Data Loss Prevention)
      * SGSI (Sistema de Gestión de Seguridad de la Información)
      * Wazuh    
-
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fes%2Fphotos%2Fdog-programmer.html&psig=AOvVaw1k2KnJfOBlyUySbH8aSyLb&ust=1752950354179000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjy_JSHx44DFQAAAAAdAAAAABAT)
 📚 Actualmente Aprendiendo:
 
      * Profundizando en Python (enfocado a ciberseguridad) 🐍
