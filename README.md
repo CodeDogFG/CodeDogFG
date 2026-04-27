@@ -18,9 +18,10 @@ Hola a todos / Hello there 👋
      * HTML5
      * CSS3
      * JavaScript (JS)
-     * PHP
+     * Kotlin
      * Java
      * Python
+     
 <p align=center>
     <img width="400" height="400" alt="goldenalpc" src="https://github.com/user-attachments/assets/b68fa4c6-6d4b-4449-ada8-2722b0abe9e0" />
 </p>
@@ -30,7 +31,8 @@ Hola a todos / Hello there 👋
      * Vue.js
      * Laravel
      * React
-     * Spring
+     * Spring boot
+     * Node.JS
      
 
 💾 Bases de Datos:
@@ -69,6 +71,7 @@ Hola a todos / Hello there 👋
      * Programación Orientada a Objetos (POO)
      * SCRUM
      * Kanban
+     * Clean Architecture
 
 📚 Actualmente Aprendiendo:
 
